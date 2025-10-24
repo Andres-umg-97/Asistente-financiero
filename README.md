@@ -17,7 +17,7 @@ El flujo en n8n utiliza tres nodos: el Webhook como disparador del flujo, un nod
 
 Durante la implementación se resolvieron tres situaciones principales: un error de compilación por una variable fuera de alcance, el envío de correos vacíos debido a un mal uso del JSON en el flujo de n8n y errores en el destinatario al no enviar correctamente el email desde la app. Todas estas incidencias se corrigieron ajustando el código en Android y la configuración en los nodos de n8n.
 
-# Video explicando el funcionamiento de la aplicacion
+# --Video explicando el funcionamiento de la aplicacion--
 
 https://drive.google.com/file/u/1/d/1UUJtY3489ohAmhL0hLU_ulHNcaPOkJz2/view?usp=sharing
 
